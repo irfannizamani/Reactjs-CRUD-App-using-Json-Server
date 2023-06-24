@@ -1,0 +1,9 @@
+.notFound {
+  top:0;
+position: fixed;
+height: 100vw;
+width: 100vw;
+  background-color: white;
+ text-align: center;
+ padding: 50px;
+}

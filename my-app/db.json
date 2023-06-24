@@ -1,0 +1,16 @@
+{
+  "Users": [
+    {
+      "name": "Irfan Nizamani",
+      "email": "irfanniz@irfan.com",
+      "phone": "123456",
+      "id": 3
+    },
+    {
+      "name": "Ali Haider Niz",
+      "email": "alhaider@alihaider.com",
+      "phone": "12345",
+      "id": 4
+    }
+  ]
+}
