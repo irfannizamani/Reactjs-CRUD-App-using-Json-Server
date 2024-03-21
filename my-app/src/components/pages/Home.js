@@ -86,7 +86,7 @@ const Home = () => {
   const loadUsers = async () => {
     try {
       const response = await axios.get(
-        "http://localhost:3002/Users?_sort=id&_order=desc"
+        "http://localhost:3002/Users"
       );
       const fetchedUsers = response.data;
       setUsers(fetchedUsers);
